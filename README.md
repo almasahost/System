@@ -1,8 +1,8 @@
 # Almasa Host System Bot
 
-[![Discord](https://img.shields.io/discord/123456789012345678?label=Join%20Our%20Discord&logo=discord&style=for-the-badge)](https://discord.gg/YOUR_SERVER_INVITE)
+[![Discord](https://img.shields.io/discord/123456789012345678?label=Join%20Our%20Discord&logo=discord&style=for-the-badge)](https://discord.gg/almasa)
 
-بوت ديسكورد رسمي مقدم من [Almasa Host](https://almasahost.com) لإدارة السيرفرات بشكل احترافي وسلس.  
+بوت ديسكورد رسمي مقدم من [Almasa Host](https://almasa.host) لإدارة السيرفرات بشكل احترافي وسلس.  
 يساعدك في التحكم الكامل في عضويات السيرفر، إرسال رسائل ترحيبية، تسجيل الدخول والخروج، وحماية السيرفر.
 
 ---
